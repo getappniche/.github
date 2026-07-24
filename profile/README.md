@@ -1,8 +1,7 @@
 # GetAppNiche
 
-**App market intelligence for people who ship apps.** Explore 745,000+ tracked iOS
-apps (Google Play coverage growing) with revenue & download estimates, ASO keyword
-scoring, review analytics — in a dashboard, over a REST API, and through a hosted
+**App market intelligence for people who ship apps.** Explore 4M+ apps indexed across the App Store &
+Google Play with revenue & download data, ASO keyword scoring, review analytics — in a dashboard, over a REST API, and through a hosted
 MCP server your AI agent can call directly.
 
 ### Start here
