@@ -13,6 +13,7 @@ MCP server your AI agent can call directly.
 - 🧠 **Agent skills** — [`getappniche/aso-skills`](https://github.com/getappniche/aso-skills):
   `npx skills add getappniche/aso-skills`
 - 📚 **Docs & guides** — [getappniche.com/docs](https://getappniche.com/docs)
+- 🐦 **X / Twitter** — [@getappniche](https://x.com/getappniche)
 
 ### For AI agents, in one line
 
