@@ -13,6 +13,7 @@ MCP server your AI agent can call directly.
   `npx skills add getappniche/aso-skills`
 - 🔌 **MCP server & stdio bridge** — [`getappniche/mcp`](https://github.com/getappniche/mcp):
   hosted endpoint + zero-dependency bridge for stdio-only clients
+  (`npx -y @getappniche/mcp` · listed in the [official MCP registry](https://registry.modelcontextprotocol.io) as `com.getappniche/mcp`)
 - 📚 **Docs & guides** — [getappniche.com/docs](https://getappniche.com/docs)
 - 🐦 **X / Twitter** — [@getappniche](https://x.com/getappniche)
 
