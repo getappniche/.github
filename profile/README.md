@@ -1,8 +1,10 @@
 # GetAppNiche
 
-**App market intelligence for people who ship apps.** Explore 4M+ apps indexed across the App Store &
-Google Play with revenue & download data, ASO keyword scoring, review analytics — in a dashboard, over a REST API, and through a hosted
-MCP server your AI agent can call directly.
+**App market intelligence for people who ship apps.** Explore 3.6M+ apps indexed across the App
+Store & Google Play (1.1M+ iOS, 2.5M+ Google Play) with revenue & download estimates, ASO keyword
+scoring, review analytics — in a dashboard, over a REST API, and through a hosted MCP server your
+AI agent can call directly. Keyword scoring, review analytics and chart rankings cover the App
+Store today — Google Play is on the way.
 
 ### Start here
 
